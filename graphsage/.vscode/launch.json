@@ -1,0 +1,40 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "DGL GraphSAGE",
+            "type": "python",
+            "request": "launch",
+            "program": "/home/under_ksh/graphsage/dgl/dgl_unsup.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--gpu",
+                "-1",
+                "--num-epochs",
+                "50",
+                "--lr",
+                "0.002",
+                "--num-hidden",
+                "128",
+                "--num-negs",
+                "10",
+                "--num-layers",
+                "1",
+                "--fan-out",
+                "10",
+                "--result-file",
+                "pred.pt"
+            ]
+        }
+    ]
+}

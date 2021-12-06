@@ -1,0 +1,101 @@
+[0]Epoch 00000 | Step 00000 | Loss 6.2998 | Speed (samples/sec) nan|nan | Load nan| train nan | GPU 0.0 MB
+Epoch Time(s): 0.1830
+[0]Epoch 00001 | Step 00000 | Loss 3.7889 | Speed (samples/sec) 108277.0423|108277.0423 | Load 0.0246| train 0.0076 | GPU 0.0 MB
+Epoch Time(s): 0.2207
+[0]Epoch 00002 | Step 00000 | Loss 2.8498 | Speed (samples/sec) 121356.6523|121356.6523 | Load 0.0394| train 0.0081 | GPU 0.0 MB
+Epoch Time(s): 0.1600
+[0]Epoch 00003 | Step 00000 | Loss 2.2164 | Speed (samples/sec) 135306.9632|135306.9632 | Load 0.0366| train 0.0081 | GPU 0.0 MB
+Epoch Time(s): 0.1630
+[0]Epoch 00004 | Step 00000 | Loss 1.8206 | Speed (samples/sec) 142004.2154|142004.2154 | Load 0.0353| train 0.0081 | GPU 0.0 MB
+Epoch Time(s): 0.2147
+[0]Epoch 00005 | Step 00000 | Loss 1.4664 | Speed (samples/sec) 139422.7781|139422.7781 | Load 0.0376| train 0.0081 | GPU 0.0 MB
+Epoch Time(s): 0.1598
+[0]Epoch 00006 | Step 00000 | Loss 1.2674 | Speed (samples/sec) 143147.8073|143147.8073 | Load 0.0365| train 0.0081 | GPU 0.0 MB
+Epoch Time(s): 0.1602
+[0]Epoch 00007 | Step 00000 | Loss 1.0967 | Speed (samples/sec) 144989.7121|144989.7121 | Load 0.0359| train 0.0081 | GPU 0.0 MB
+Epoch Time(s): 0.2138
+[0]Epoch 00008 | Step 00000 | Loss 0.9994 | Speed (samples/sec) 143031.2542|143031.2542 | Load 0.0370| train 0.0081 | GPU 0.0 MB
+Epoch Time(s): 0.1617
+[0]Epoch 00009 | Step 00000 | Loss 0.9044 | Speed (samples/sec) 144852.9246|144852.9246 | Load 0.0364| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1600
+[0]Epoch 00010 | Step 00000 | Loss 0.8406 | Speed (samples/sec) 146194.3523|146194.3523 | Load 0.0359| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1610
+[0]Epoch 00011 | Step 00000 | Loss 0.7901 | Speed (samples/sec) 144843.5690|144843.5690 | Load 0.0367| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.2293
+[0]Epoch 00012 | Step 00000 | Loss 0.7600 | Speed (samples/sec) 144229.9574|144229.9574 | Load 0.0368| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1650
+[0]Epoch 00013 | Step 00000 | Loss 0.7408 | Speed (samples/sec) 145493.6949|145493.6949 | Load 0.0364| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1652
+[0]Epoch 00014 | Step 00000 | Loss 0.7135 | Speed (samples/sec) 144250.3009|144250.3009 | Load 0.0370| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.2080
+[0]Epoch 00015 | Step 00000 | Loss 0.6982 | Speed (samples/sec) 145322.4928|145322.4928 | Load 0.0366| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1593
+[0]Epoch 00016 | Step 00000 | Loss 0.6862 | Speed (samples/sec) 146253.7145|146253.7145 | Load 0.0363| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1592
+[0]Epoch 00017 | Step 00000 | Loss 0.6805 | Speed (samples/sec) 146971.3877|146971.3877 | Load 0.0361| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.2188
+[0]Epoch 00018 | Step 00000 | Loss 0.6706 | Speed (samples/sec) 145795.2114|145795.2114 | Load 0.0366| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1614
+[0]Epoch 00019 | Step 00000 | Loss 0.6599 | Speed (samples/sec) 146036.5647|146036.5647 | Load 0.0364| train 0.0084 | GPU 0.0 MB
+Epoch Time(s): 0.1846
+[0]Epoch 00020 | Step 00000 | Loss 0.6600 | Speed (samples/sec) 146150.5288|146150.5288 | Load 0.0363| train 0.0084 | GPU 0.0 MB
+Epoch Time(s): 0.2170
+[0]Epoch 00021 | Step 00000 | Loss 0.6488 | Speed (samples/sec) 145409.8987|145409.8987 | Load 0.0368| train 0.0084 | GPU 0.0 MB
+Epoch Time(s): 0.1604
+[0]Epoch 00022 | Step 00000 | Loss 0.6423 | Speed (samples/sec) 146037.7572|146037.7572 | Load 0.0365| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1601
+[0]Epoch 00023 | Step 00000 | Loss 0.6394 | Speed (samples/sec) 146654.8463|146654.8463 | Load 0.0363| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.2104
+[0]Epoch 00024 | Step 00000 | Loss 0.6310 | Speed (samples/sec) 145769.4067|145769.4067 | Load 0.0367| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1845
+[0]Epoch 00025 | Step 00000 | Loss 0.6342 | Speed (samples/sec) 145435.5019|145435.5019 | Load 0.0367| train 0.0084 | GPU 0.0 MB
+Epoch Time(s): 0.1825
+[0]Epoch 00026 | Step 00000 | Loss 0.6313 | Speed (samples/sec) 145401.8910|145401.8910 | Load 0.0367| train 0.0084 | GPU 0.0 MB
+Epoch Time(s): 0.2066
+[0]Epoch 00027 | Step 00000 | Loss 0.6265 | Speed (samples/sec) 144954.5546|144954.5546 | Load 0.0370| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1604
+[0]Epoch 00028 | Step 00000 | Loss 0.6220 | Speed (samples/sec) 145451.0978|145451.0978 | Load 0.0368| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1660
+[0]Epoch 00029 | Step 00000 | Loss 0.6247 | Speed (samples/sec) 145811.9127|145811.9127 | Load 0.0367| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1613
+[0]Epoch 00030 | Step 00000 | Loss 0.6196 | Speed (samples/sec) 145361.7529|145361.7529 | Load 0.0370| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.2216
+[0]Epoch 00031 | Step 00000 | Loss 0.6161 | Speed (samples/sec) 145774.6704|145774.6704 | Load 0.0369| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1596
+[0]Epoch 00032 | Step 00000 | Loss 0.6145 | Speed (samples/sec) 146202.9490|146202.9490 | Load 0.0367| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1587
+[0]Epoch 00033 | Step 00000 | Loss 0.6142 | Speed (samples/sec) 145842.9450|145842.9450 | Load 0.0369| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.2095
+[0]Epoch 00034 | Step 00000 | Loss 0.6131 | Speed (samples/sec) 146193.1106|146193.1106 | Load 0.0368| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1656
+[0]Epoch 00035 | Step 00000 | Loss 0.6131 | Speed (samples/sec) 146452.7309|146452.7309 | Load 0.0366| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1591
+[0]Epoch 00036 | Step 00000 | Loss 0.6081 | Speed (samples/sec) 146830.8044|146830.8044 | Load 0.0365| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.2359
+[0]Epoch 00037 | Step 00000 | Loss 0.6088 | Speed (samples/sec) 146257.1520|146257.1520 | Load 0.0369| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1590
+[0]Epoch 00038 | Step 00000 | Loss 0.6061 | Speed (samples/sec) 146623.6338|146623.6338 | Load 0.0367| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1602
+[0]Epoch 00039 | Step 00000 | Loss 0.6065 | Speed (samples/sec) 146912.1058|146912.1058 | Load 0.0366| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.2072
+[0]Epoch 00040 | Step 00000 | Loss 0.6047 | Speed (samples/sec) 146584.4001|146584.4001 | Load 0.0368| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1590
+[0]Epoch 00041 | Step 00000 | Loss 0.6010 | Speed (samples/sec) 146907.4204|146907.4204 | Load 0.0367| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.1595
+[0]Epoch 00042 | Step 00000 | Loss 0.5975 | Speed (samples/sec) 147193.3531|147193.3531 | Load 0.0366| train 0.0083 | GPU 0.0 MB
+Epoch Time(s): 0.2123
+[0]Epoch 00043 | Step 00000 | Loss 0.5969 | Speed (samples/sec) 146812.6314|146812.6314 | Load 0.0368| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1590
+[0]Epoch 00044 | Step 00000 | Loss 0.5954 | Speed (samples/sec) 147111.4325|147111.4325 | Load 0.0366| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1598
+[0]Epoch 00045 | Step 00000 | Loss 0.5942 | Speed (samples/sec) 147370.3736|147370.3736 | Load 0.0365| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.2165
+[0]Epoch 00046 | Step 00000 | Loss 0.5904 | Speed (samples/sec) 147004.1347|147004.1347 | Load 0.0368| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1587
+[0]Epoch 00047 | Step 00000 | Loss 0.5949 | Speed (samples/sec) 147285.6848|147285.6848 | Load 0.0367| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1614
+[0]Epoch 00048 | Step 00000 | Loss 0.5883 | Speed (samples/sec) 147497.6842|147497.6842 | Load 0.0366| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.1591
+[0]Epoch 00049 | Step 00000 | Loss 0.5923 | Speed (samples/sec) 147218.3165|147218.3165 | Load 0.0367| train 0.0082 | GPU 0.0 MB
+Epoch Time(s): 0.2098
+Avg epoch time: 0.17928820186191136
